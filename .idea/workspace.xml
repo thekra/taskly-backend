@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="981f6d62-ce6d-47b1-a7dd-77dcfc8a5453" name="Default Changelist" comment="" />
+    <list default="true" id="981f6d62-ce6d-47b1-a7dd-77dcfc8a5453" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskly/app/Http/Controllers/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Taskly/app/Http/Controllers/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskly/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/Taskly/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskly/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/Taskly/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskly/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/Taskly/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taskly/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/Taskly/routes/api.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +187,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603969939622</updated>
-      <workItem from="1603969942492" duration="4683000" />
+      <workItem from="1603969942492" duration="15077000" />
     </task>
     <servers />
   </component>
@@ -199,10 +206,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="578" y="287" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603985026665">
+    <state x="578" y="287" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603998184908">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="578" y="287" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1603985026665" />
+    <state x="578" y="287" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1603998184908" />
     <state x="538" y="280" width="604" height="490" key="find.popup" timestamp="1603985433649">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

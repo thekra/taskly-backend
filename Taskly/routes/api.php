@@ -31,3 +31,20 @@ Route::group([
         Route::get('user', 'AuthController@user');
     });
 });
+
+Route::group([
+    'prefix' => 'task'
+], function () {
+
+    Route::group([
+        'middleware' => 'auth:api'
+    ], function() {
+        Route::get('index', 'TaskController@index');
+        Route::post('create', 'TaskController@create');
+    });
+
+    Route::post('show', 'TaskController@show');
+    Route::post('update', 'TaskController@update');
+    Route::post('isTaskCompleted', 'TaskController@isTaskCompleted');
+    Route::post('delete', 'TaskController@delete');
+});
